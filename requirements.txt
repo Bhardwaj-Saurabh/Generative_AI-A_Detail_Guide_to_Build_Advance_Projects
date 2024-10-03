@@ -1,3 +1,7 @@
 black
 llama-index
 python-dotenv
+openai
+matplotlib 
+seaborn
+
