@@ -4,4 +4,8 @@ python-dotenv
 openai
 matplotlib 
 seaborn
-
+langchain
+langchain-community
+arxiv
+pymupdf
+langchain-text-splitters
