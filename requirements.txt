@@ -6,6 +6,11 @@ matplotlib
 seaborn
 langchain
 langchain-community
+langchain-core
 arxiv
 pymupdf
 langchain-text-splitters
+langchain-openai
+chromadb
+faiss-cpu
+ipykernel
